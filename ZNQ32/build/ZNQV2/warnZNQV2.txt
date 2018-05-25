@@ -1,0 +1,21 @@
+missing module named resource - imported by posix, E:\M3180\424\ZNQ32\ZNQV2.py
+missing module named posix - imported by os, E:\M3180\424\ZNQ32\ZNQV2.py
+missing module named _posixsubprocess - imported by subprocess, E:\M3180\424\ZNQ32\ZNQV2.py
+missing module named org - imported by pickle, E:\M3180\424\ZNQ32\ZNQV2.py
+missing module named readline - imported by cmd, code, pdb, E:\M3180\424\ZNQ32\ZNQV2.py
+excluded module named _frozen_importlib - imported by importlib, importlib.abc, E:\M3180\424\ZNQ32\ZNQV2.py
+missing module named _frozen_importlib_external - imported by importlib._bootstrap, importlib, importlib.abc, E:\M3180\424\ZNQ32\ZNQV2.py
+missing module named _winreg - imported by platform, E:\M3180\424\ZNQ32\ZNQV2.py
+missing module named _scproxy - imported by urllib.request
+missing module named java - imported by platform, E:\M3180\424\ZNQ32\ZNQV2.py
+missing module named 'java.lang' - imported by platform, E:\M3180\424\ZNQ32\ZNQV2.py, xml.sax._exceptions
+missing module named vms_lib - imported by platform, E:\M3180\424\ZNQ32\ZNQV2.py
+missing module named termios - imported by tty, E:\M3180\424\ZNQ32\ZNQV2.py, getpass
+missing module named grp - imported by shutil, tarfile, E:\M3180\424\ZNQ32\ZNQV2.py
+missing module named pwd - imported by posixpath, shutil, tarfile, http.server, webbrowser, E:\M3180\424\ZNQ32\ZNQV2.py, netrc, getpass
+missing module named _dummy_threading - imported by dummy_threading, E:\M3180\424\ZNQ32\ZNQV2.py
+missing module named 'org.python' - imported by copy, E:\M3180\424\ZNQ32\ZNQV2.py, xml.sax
+missing module named elementtree - imported by xlrd.xlsx
+missing module named cElementTree - imported by xlrd.xlsx
+missing module named cStringIO - imported by xlrd.timemachine
+missing module named copy_reg - imported by cStringIO
